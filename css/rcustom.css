@@ -173,7 +173,7 @@
     font-size: 22px;
     border-radius: 2px;
     margin-right: 5px;
-    transition: all .20s ease-in-out;
+    transition: all .25s ease-in-out;
 }
 .icon-btn:hover{
   border-radius: 50%;
