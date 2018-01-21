@@ -174,6 +174,7 @@
     border-radius: 2px;
     margin-right: 5px;
     transition: all .25s ease-in-out;
+    border: 0;
 }
 .icon-btn:hover{
   border-radius: 50%;
